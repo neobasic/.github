@@ -30,9 +30,5 @@
 
 
 - - -
-<br />
 
 > "The only happiness in life lies in the consciousness of having accomplished something useful for the benefit of the community." &nbsp; — &nbsp; <a href="https://en.wikipedia.org/wiki/Vital_Brazil">Vital Brasil</a>
-
-
-<h4 align="right">:vulcan_salute:&nbsp; Live Long and Prosper!</h4>

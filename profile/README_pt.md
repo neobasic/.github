@@ -120,10 +120,5 @@
 
 
 - - -
-<br />
-
 
 > "A única felicidade da vida está na consciência de ter realizado algo de útil em benefício da comunidade." &nbsp; — &nbsp; <a href="https://pt.wikipedia.org/wiki/Vital_Brazil">Vital Brasil</a>
-
-
-<h4 align="right">:vulcan_salute:&nbsp; Vida Longa e Próspera!</h4>
