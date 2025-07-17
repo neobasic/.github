@@ -1,4 +1,4 @@
-![NeoBASIC banner](https://raw.githubusercontent.com/neobasic/.github/main/assets/profile-banner_en.jpg)
+![NeoBASIC banner](https://raw.githubusercontent.com/neobasic/.github/main/assets/profile-banner_en.png)
 
 <p align="right">🇧🇷 <a href="https://github.com/neobasic/.github/blob/main/profile/README_pt.md">Português</a></p>
 
