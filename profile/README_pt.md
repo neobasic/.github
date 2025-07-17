@@ -1,6 +1,6 @@
-![NeoBASIC banner](https://raw.githubusercontent.com/neobasic/.github/main/assets/profile-banner_pt.png)
+![NeoBASIC banner](https://raw.githubusercontent.com/neobasic/.github/main/assets/profile-banner_pt.jpg
 
-<p align="right">:uk: <a href="https://github.com/neobasic/.github/blob/main/profile/README.md">English</a></p>
+<p align="right">🇬🇧 <a href="https://github.com/neobasic/.github/blob/main/profile/README.md">English</a></p>
 
 ## 👋 Bem-vindo ao Projeto NeoBASIC
 
