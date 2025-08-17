@@ -2,7 +2,7 @@
 
 <p align="right">🇧🇷 <a href="https://github.com/neobasic/.github/blob/main/profile/README_pt.md">Português</a></p>
 
-## 👋 Welcome to the NeoBASIC Project
+## 👋 Welcome to the NeoBASIC 4GL Project
 
 <p align="justify">... <a href="https://">text</a> .</p>
 
