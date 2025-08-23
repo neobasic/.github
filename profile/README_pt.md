@@ -2,7 +2,7 @@
 
 <p align="right">🇬🇧 <a href="https://github.com/neobasic">English</a></p>
 
-## 👋 Bem-vindo ao Projeto NeoBASIC 4GL
+## 👋 Bem-vindo ao Projeto NeoBASIC
 
 <p align="justify">... <a href="https://">texto</a> .</p> 
 
