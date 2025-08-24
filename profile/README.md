@@ -2,7 +2,7 @@
 
 <p align="right">🇧🇷 <a href="https://github.com/neobasic/.github/blob/main/profile/README_pt.md">Português</a></p>
 
-## 🤗&nbsp; Welcome to the NeoBASIC Project
+## 🤗&nbsp; Welcome to The NeoBASIC Project
 
 Hi, my name is [Raul Bras](https://github.com/teknolista). I'm a software engineer from 🇧🇷 Brazil and the creator of 🔰 **NeoBASIC** — a next generation, multipurpose programming language that transpiles to **C++**. NeoBASIC is designed to help beginners learn programming more easily, while also providing the tools to build reliable, efficient, and high-performance software.
 
