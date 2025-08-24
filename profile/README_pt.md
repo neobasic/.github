@@ -6,118 +6,34 @@
 
 <p align="justify">... <a href="https://">texto</a> .</p> 
 
-O primeiro "rascunho" da gramática da linguagem já está pronto ([neo-grammar](https://github.com/neobasic/neo-grammar)), e agora estou iniciando a programação do parser ([ngne](https://github.com/neobasic/ngne)) e para isso estou usando o Antlr4. Será tudo codificado em C++. Em paralelo estou já preparando o site ([www.neobasic.org](https://www.neobasic.org/)), escrevendo a documentação ([pt.neobasic.org](https://pt.neobasic.org/)) ao mesmo tempo que traduzo tudo para o inglês ([en.neobasic.org](https://en.neobasic.org/)). Tem também uma extensão para o VS Code que pretendo lançar, mas por enquanto estou ainda criando o syntax-highlighting com a gramática do TextMate ([vscode-neo](https://github.com/neobasic/vscode-neo)). Não é um trabalho fácil, e a previsão é que seja um empreendimento que consuma anos de desenvolvimento.
+O primeiro "rascunho" da gramática da linguagem já está pronto ([neo-grammar](https://github.com/neobasic/neo-grammar)), e agora estou iniciando a programação do parser ([ngne](https://github.com/neobasic/ngne)) e para isso estou usando o [Antlr4](https://www.antlr.org/). Será tudo codificado em C++. Em paralelo estou já preparando o site ([www.neobasic.org](https://www.neobasic.org/)), escrevendo a documentação ([pt.neobasic.org](https://pt.neobasic.org/)) ao mesmo tempo que traduzo tudo para o inglês ([en.neobasic.org](https://en.neobasic.org/)). Tem também uma extensão para o VS Code que pretendo lançar, mas por enquanto estou ainda criando o syntax-highlighting com a gramática do TextMate ([vscode-neo](https://github.com/neobasic/vscode-neo)). Não é um trabalho fácil, e a previsão é que seja um empreendimento que consuma anos de desenvolvimento.
+
+## 👨‍🍳 Qualquer um pode programar (e cozinhar)
+
+A frase do banner acima é uma paráfrase da citação "Qualquer um pode cozinhar" do personagem Gusteau no filme "[Ratatouille](https://pt.wikipedia.org/wiki/Ratatouille_(filme))". A famosa frase do chef Gusteau destaca que o talento pode surgir em qualquer pessoa, independentemente de sua origem ou condição social. O filme também mostra a importância de seguir seus sonhos, a necessidade de persistência e trabalho duro, e a capacidade de superar preconceitos e barreiras sociais. 
+
+## 🦁 Zeca, O Mascote NeoBASIC
+
+O mascote da linguagem NeoBASIC é a [quimera](https://pt.wikipedia.org/wiki/Quimera), uma criatura mitológica que surgiu na Grécia durante o século VII a.C. A quimera é caracterizada por uma aparência híbrida de dois ou mais animais (leão, cabra, serpente, águia) e a capacidade de lançar fogo pelas narinas.
+
+O nome ZECA é uma sigla para "Zero Esforço e Custo em Abstrações". NeoBASIC é uma linguagem baseada no conceito "Zero-cost abstraction", onde recursos ou abstrações são fornecidos sem impor nenhuma sobrecarga de desempenho em tempo de execução. As abstrações fornecidas por NeoBASIC são construções em tempo de compilação e não adicionam nenhum custo extra ao código C++ final, tornando-o tão rápido quanto se você tivesse escrito o código em C++ sem as abstrações.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <br />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 - - -
 
