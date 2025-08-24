@@ -2,9 +2,9 @@
 
 <p align="right">🇬🇧 <a href="https://github.com/neobasic">English</a></p>
 
-## 👋 Bem-vindo ao Projeto NeoBASIC
+## 🤗 Bem-vindo ao Projeto NeoBASIC
 
-<p align="justify">... <a href="https://">texto</a> .</p> 
+Olá, meu nome é [**Raul Bras**](https://github.com/teknolista). Sou um engenheiro de software e criador da 🔰 **NeoBASIC** — uma linguagem de programação de propósito geral de última geração que pode ser transpilada para **C++**. NeoBASIC foi projetado para ajudar iniciantes a aprender programação com mais facilidade, além de fornecer as ferramentas necessárias para construir softwares confiáveis, eficientes e de alto desempenho.
 
 O primeiro "rascunho" da gramática da linguagem já está pronto ([neo-grammar](https://github.com/neobasic/neo-grammar)), e agora estou iniciando a programação do parser ([ngne](https://github.com/neobasic/ngne)) e para isso estou usando o [Antlr4](https://www.antlr.org/). Será tudo codificado em C++. Em paralelo estou já preparando o site ([www.neobasic.org](https://www.neobasic.org/)), escrevendo a documentação ([pt.neobasic.org](https://pt.neobasic.org/)) ao mesmo tempo que traduzo tudo para o inglês ([en.neobasic.org](https://en.neobasic.org/)). Tem também uma extensão para o VS Code que pretendo lançar, mas por enquanto estou ainda criando o syntax-highlighting com a gramática do TextMate ([vscode-neo](https://github.com/neobasic/vscode-neo)). Não é um trabalho fácil, e a previsão é que seja um empreendimento que consuma anos de desenvolvimento.
 
@@ -18,7 +18,7 @@ O mascote da linguagem NeoBASIC é a [quimera](https://pt.wikipedia.org/wiki/Qui
 
 O nome ZECA é uma sigla para "Zero Esforço e Custo em Abstrações". NeoBASIC é uma linguagem baseada no conceito "Zero-cost abstraction", onde recursos ou abstrações são fornecidos sem impor nenhuma sobrecarga de desempenho em tempo de execução. As abstrações fornecidas por NeoBASIC são construções em tempo de compilação e não adicionam nenhum custo extra ao código C++ final, tornando-o tão rápido quanto se você tivesse escrito o código em C++ sem as abstrações.
 
-
+Os [chimera icons](https://www.flaticon.com/free-icon/chimera_477118) usados ​​no projeto NeoBASIC foram projetados por [Freepik](https://www.flaticon.com/authors/freepik) e obtidos de [Flaticon](https://www.flaticon.com/).
 
 
 
