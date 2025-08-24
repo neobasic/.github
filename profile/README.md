@@ -6,7 +6,7 @@
 
 <p align="justify">... <a href="https://">text</a> .</p>
 
-- ...
+The first draft of the language grammar is ready ([neo-grammar](https://github.com/neobasic/neo-grammar)), and now I'm starting to program the parser ([ngne](https://github.com/neobasic/ngne)), using Antlr4. Everything will be coded in C++. I'm also preparing the website ([www.neobasic.org](https://www.neobasic.org/)), writing the documentation ([en.neobasic.org](https://en.neobasic.org/)), and translating everything from Portuguese ([pt.neobasic.org](https://pt.neobasic.org/)). I also plan to release a VS Code extension, but for now I'm still creating syntax highlighting using TextMate's grammar ([vscode-neo](https://github.com/neobasic/vscode-neo)). It's not an easy task, and I expect it to be a years-long project.
 
 
 <br />
