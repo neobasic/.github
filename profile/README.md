@@ -8,7 +8,7 @@ Hi, my name is [Raul Bras](https://github.com/teknolista). I'm a software engine
 
 The first draft of the language grammar is ready ([neob-grammar](https://github.com/neobasic/neob-grammar)), and now I'm starting to program the parser ([ngne](https://github.com/neobasic/ngne)), using [Antlr4](https://www.antlr.org/). Everything will be coded in C++. I'm also preparing the website ([www.neobasic.org](https://www.neobasic.org/en/)), writing the documentation ([en.neobasic.org](https://en.neobasic.org/)), and translating everything from Portuguese ([pt.neobasic.org](https://pt.neobasic.org/)). I also plan to release a VS Code extension, but for now I'm still creating syntax highlighting using TextMate's grammar ([vscode-neob](https://github.com/neobasic/vscode-neob)). It's not an easy task, and I expect it to be a years-long project.
 
-## 💖&nbsp; Open Source, Open Contribution, Open Min, Open Heart
+## 💖&nbsp; Open Source, Open Contribution, Open Mind, Open Heart
 
 NeoBASIC was born as a programming language offered to the world as a gift to humanity, a creative gesture that isn't tied to owners or corporations, but expresses itself as a free path for anyone who wishes to embark on the journey of computer programming. This means you can freely learn, practice, and create software with this language, exploring its possibilities and expanding its ecosystem. By using it, you become part of a community that shares knowledge and contributes to the growth and benefit of this language.
 
