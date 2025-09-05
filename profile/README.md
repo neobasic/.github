@@ -8,6 +8,12 @@ Hi, my name is [Raul Bras](https://github.com/teknolista). I'm a software engine
 
 The first draft of the language grammar is ready ([neob-grammar](https://github.com/neobasic/neob-grammar)), and now I'm starting to program the parser ([ngne](https://github.com/neobasic/ngne)), using [Antlr4](https://www.antlr.org/). Everything will be coded in C++. I'm also preparing the website ([www.neobasic.org](https://www.neobasic.org/en/)), writing the documentation ([en.neobasic.org](https://en.neobasic.org/)), and translating everything from Portuguese ([pt.neobasic.org](https://pt.neobasic.org/)). I also plan to release a VS Code extension, but for now I'm still creating syntax highlighting using TextMate's grammar ([vscode-neob](https://github.com/neobasic/vscode-neob)). It's not an easy task, and I expect it to be a years-long project.
 
+## 🔰&nbsp; Born of Desire, Shaped by Practicality
+
+NeoBASIC was born from a desire to help ordinary people to learn how to code.
+
+
+
 ## 💖&nbsp; Open Source, Open Contribution, Open Mind, Open Heart
 
 NeoBASIC was born as a programming language offered to the world as a gift to humanity, a creative gesture that isn't tied to owners or corporations, but expresses itself as a free path for anyone who wishes to embark on the journey of computer programming. This means you can freely learn, practice, and create software with this language, exploring its possibilities and expanding its ecosystem. By using it, you become part of a community that shares knowledge and contributes to the growth and benefit of this language.
@@ -21,6 +27,8 @@ The phrase of the banner above is a paraphrase of Gusteau's quote "Anyone can co
 The NeoBASIC mascot is the [chimera](https://en.wikipedia.org/wiki/Chimera_(creature)), a mythological creature that emerged in Greece during the 7th century BC. The chimera is characterized by a hybrid appearance of two or more animals (lion, goat, serpent, eagle) and the ability to breathe fire from its nostrils.
 
 The name ZECA is an acronym for "Zero Effort and Cost Abstractions." NeoBASIC is a language based on the concepts of *zero-cost abstraction*, and *zero cognitive effort*, in which the resources and abstractions provided are easy to assimilate and do not impose any performance overhead at runtime. The abstractions provided by NeoBASIC are compile-time constructs and do not add any additional cost to the final C++ code, making it as fast as if you had written the code in C++ without the abstractions.
+
+<img src="https://raw.githubusercontent.com/neobasic/.github/main/assets/chimera_icons.png" alt="Chimera icons adopted in the project." style="display:block; margin:0 auto; max-width:100%; height:auto;">
 
 The [chimera icons](https://www.flaticon.com/free-icon/chimera_477118) used in the NeoBASIC project were designed by [Freepik](https://www.flaticon.com/authors/freepik) and sourced from [Flaticon](https://www.flaticon.com/).
 
