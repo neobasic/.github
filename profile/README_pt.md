@@ -28,7 +28,7 @@ O mascote da linguagem NeoBASIC é a [quimera](https://pt.wikipedia.org/wiki/Qui
 
 O nome ZECA é uma sigla para "Zero Esforço e Custo em Abstrações". NeoBASIC é uma linguagem baseada nos conceitos de *zero-cost abstraction*,  e *zero cognitive effort*, em que os recursos e abstrações fornecidos são fáceis de assimilar e não impõem nenhuma sobrecarga de desempenho em tempo de execução. As abstrações fornecidas por NeoBASIC são construções em tempo de compilação e não adicionam nenhum custo extra ao código C++ final, tornando-o tão rápido quanto se você tivesse escrito o código em C++ sem as abstrações.
 
-<img src="https://raw.githubusercontent.com/neobasic/.github/main/assets/chimera_icons.png" alt="Ícones de quimera adotos no projeto." style="display:block; margin:0 auto; max-width:100%; height:auto;">
+<p align="center"><img src="https://raw.githubusercontent.com/neobasic/.github/main/assets/chimera_icons.png" alt="Ícones de quimera adotos no projeto."></p>
 
 Os [ícones de quimera](https://www.flaticon.com/free-icon/chimera_477118) usados ​​no projeto NeoBASIC foram projetados por [Freepik](https://www.flaticon.com/authors/freepik) e obtidos de [Flaticon](https://www.flaticon.com/).
 

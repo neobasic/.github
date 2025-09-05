@@ -28,7 +28,7 @@ The NeoBASIC mascot is the [chimera](https://en.wikipedia.org/wiki/Chimera_(crea
 
 The name ZECA is an acronym for "Zero Effort and Cost Abstractions." NeoBASIC is a language based on the concepts of *zero-cost abstraction*, and *zero cognitive effort*, in which the resources and abstractions provided are easy to assimilate and do not impose any performance overhead at runtime. The abstractions provided by NeoBASIC are compile-time constructs and do not add any additional cost to the final C++ code, making it as fast as if you had written the code in C++ without the abstractions.
 
-<img src="https://raw.githubusercontent.com/neobasic/.github/main/assets/chimera_icons.png" alt="Chimera icons adopted in the project." style="display:block; margin:0 auto; max-width:100%; height:auto;">
+<p align="center"><img src="https://raw.githubusercontent.com/neobasic/.github/main/assets/chimera_icons.png" alt="Chimera icons adopted in the project."></p>
 
 The [chimera icons](https://www.flaticon.com/free-icon/chimera_477118) used in the NeoBASIC project were designed by [Freepik](https://www.flaticon.com/authors/freepik) and sourced from [Flaticon](https://www.flaticon.com/).
 
