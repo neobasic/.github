@@ -10,9 +10,7 @@ The first draft of the language grammar is ready ([neob-grammar](https://github.
 
 ## 🔰&nbsp; Born of Desire, Shaped by Practicality
 
-NeoBASIC was born from a desire to help ordinary people to learn how to code.
-
-
+The NeoBASIC language was born from a desire to help ordinary people to learn how to code.
 
 ## 💖&nbsp; Open Source, Open Contribution, Open Mind, Open Heart
 

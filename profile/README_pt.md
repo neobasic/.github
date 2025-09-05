@@ -10,9 +10,7 @@ O primeiro "rascunho" da gramática da linguagem já está pronto ([neob-grammar
 
 ## 🔰&nbsp; Nascida do Desejo, Moldada pela Praticidade
 
-O NeoBASIC nasceu do desejo de ajudar pessoas comuns a aprender a programar.
-
-
+A linguagem NeoBASIC nasceu do desejo de ajudar pessoas comuns a aprender a programar.
 
 ## 💖&nbsp; Código Aberto, Livre Contribuição, Mente Aberta, De Coração Aberto
 
