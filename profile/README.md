@@ -36,6 +36,8 @@ NeoBASIC was born as a programming language offered to the world as a gift to hu
 
 The phrase of the banner above is a paraphrase of Gusteau's quote "Anyone can cook" from the film "[Ratatouille](https://en.wikipedia.org/wiki/Ratatouille_(film))." Chef Gusteau's famous quote highlights that talent can emerge in anyone, regardless of background or social status. The film also highlights the importance of following your dreams, the need for persistence and hard work, and the ability to overcome prejudices and social barriers.
 
+Forget what you've heard or read about artificial intelligence replacing programmers and other professions. It's just nonsense from CEOs trying to inflate their products and desperate to attract investors. There aren't enough programmers in the world today to meet the huge demand that software is creating in society. If you want to become a programmer, keep studying and improving. Focus on your goals, learn what you find interesting, and don't compare yourself to anyone else.
+
 ## 🦁&nbsp; Zeca, The NeoBASIC Mascot
 
 The NeoBASIC mascot is the [chimera](https://en.wikipedia.org/wiki/Chimera_(creature)), a mythological creature that emerged in Greece during the 7th century BC. The chimera is characterized by a hybrid appearance of two or more animals (lion, goat, serpent, eagle) and the ability to breathe fire from its nostrils.

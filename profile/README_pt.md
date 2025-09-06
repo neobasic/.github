@@ -36,6 +36,8 @@ NeoBASIC nasce como uma linguagem de programação oferecida ao mundo como um pr
 
 A frase do banner acima é uma paráfrase da citação "Qualquer um pode cozinhar" do personagem Gusteau no filme "[Ratatouille](https://pt.wikipedia.org/wiki/Ratatouille_(filme))". A famosa frase do chef Gusteau destaca que o talento pode surgir em qualquer pessoa, independentemente de sua origem ou condição social. O filme também mostra a importância de seguir seus sonhos, a necessidade de persistência e trabalho duro, e a capacidade de superar preconceitos e barreiras sociais. 
 
+Esqueça o que você já ouviu ou leu sobre a inteligência artificial substituindo programadores e outras profissões. Papo furado de CEOs tentando inflar seus produtos e desesperados em atrair investidores. Não há hoje no mundo uma quantidade suficiente de programadores para suprir a grande demanda que o software está criando na sociedade. Se você deseja se tornar um programador, continue estudando e se aperfeiçoando. Foque nas suas metas, aprenda o que achar interessante e não se compare a ninguém.
+
 ## 🦁&nbsp; Zeca, O Mascote NeoBASIC
 
 O mascote da linguagem NeoBASIC é a [quimera](https://pt.wikipedia.org/wiki/Quimera), uma criatura mitológica que surgiu na Grécia durante o século VII a.C. A quimera é caracterizada por uma aparência híbrida de dois ou mais animais (leão, cabra, serpente, águia) e a capacidade de lançar fogo pelas narinas.
