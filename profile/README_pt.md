@@ -12,6 +12,21 @@ O primeiro "rascunho" da gramática da linguagem já está pronto ([neob-grammar
 
 A linguagem NeoBASIC nasceu do desejo de ajudar pessoas comuns a aprender a programar.
 
+## ✊&nbsp; O Poder De C++ Para O Povo
+
+O código NeoBASIC é transpilado para C++, uma linguagem poderosa que combina alto desempenho, controle de baixo nível de hardware, e recursos modernos de programação orientada a objetos, genérica e funcional, permitindo a construção de sistemas complexos, eficientes e reutilizáveis. Sua capacidade de manipular diretamente a memória, aliada a uma rica biblioteca padrão e suporte a abstrações de alto nível, faz com que seja ideal tanto para aplicações de tempo real (como jogos, sistemas operacionais e motores gráficos) quanto para softwares de alta performance e sistemas embarcados.
+
+> “C facilita dar um tiro no próprio pé;
+> C++ torna mais difícil, mas quando você consegue, explode a perna inteira.”
+>
+> -- <cite>Ditado popular entre programadores</cite>
+
+Ao ser transpilada para C++, NeoBASIC mantém a performance e o ecossistema da linguagem, mas adiciona mecanismos de segurança que impedem erros comuns de gerenciamento de memória, como vazamentos, ponteiros pendentes ou acesso fora de limites. Esses recursos não apenas reduzem drasticamente o risco de falhas críticas, como também permitem que o desenvolvedor se concentre na lógica da aplicação, aproveitando as vantagens da linguagem C++ sem sofrer com suas armadilhas mais perigosas. Além disso, NeoBASIC oferece abstrações modernas e verificações em tempo de compilação que tornam o código mais seguro, legível e confiável.
+
+> “NeoBASIC é o mecanismo de segurança que previne o uso acidental e letal de C++.”
+>
+> -- <cite>Equipe NeoBASIC</cite>
+
 ## 💖&nbsp; Código Aberto, Livre Contribuição, Mente Aberta, De Coração Aberto
 
 NeoBASIC nasce como uma linguagem de programação oferecida ao mundo como um presente à humanidade, um gesto de criação que não se prende a donos ou corporações, mas se expressa como um caminho livre para todos que desejem trilhar a jornada da programação de computadores. Isso significa que você pode aprender, praticar e criar software com essa linguagem livremente, explorando suas possibilidades e expandindo seu ecossistema. Ao usá-la, você se torna parte de uma comunidade que compartilha conhecimento e contribui para que essa linguagem cresça e beneficie cada vez mais pessoas.

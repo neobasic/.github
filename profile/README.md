@@ -12,6 +12,21 @@ The first draft of the language grammar is ready ([neob-grammar](https://github.
 
 The NeoBASIC language was born from a desire to help ordinary people to learn how to code.
 
+## ✊&nbsp; The Power Of C++ To The People
+
+NeoBASIC code is transpiled into C++, a powerful language that combines high performance, low-level hardware control, and modern object-oriented, generic, and functional programming features, enabling the construction of complex, efficient, and reusable systems. Its ability to directly manipulate memory, combined with a rich standard library and support for high-level abstractions, makes it ideal for both real-time applications (such as games, operating systems, and graphics engines) and high-performance software and embedded systems.
+
+> “C makes it easy to shoot yourself in the foot; 
+> C++ makes it harder, but when you do it blows your whole leg off.”
+>
+> -- <cite>A popular saying among programmers</cite>
+
+By being transpiled to C++, NeoBASIC retains the performance and ecosystem of the language while adding safety mechanisms that prevent common memory management errors, such as leaks, dangling pointers, or out-of-bounds access. These features not only drastically reduce the risk of critical failures but also allow developers to focus on application logic, taking advantage of the original language’s strengths without falling into its most dangerous pitfalls. Additionally, NeoBASIC provides modern abstractions and compile-time checks that make code safer, more readable, and more reliable.
+
+> “NeoBASIC is the safety mechanism that prevents accidental lethal use of C++.”
+>
+> -- <cite>NeoBASIC Team</cite>
+
 ## 💖&nbsp; Open Source, Open Contribution, Open Mind, Open Heart
 
 NeoBASIC was born as a programming language offered to the world as a gift to humanity, a creative gesture that isn't tied to owners or corporations, but expresses itself as a free path for anyone who wishes to embark on the journey of computer programming. This means you can freely learn, practice, and create software with this language, exploring its possibilities and expanding its ecosystem. By using it, you become part of a community that shares knowledge and contributes to the growth and benefit of this language.
