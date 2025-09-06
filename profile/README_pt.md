@@ -16,16 +16,17 @@ A linguagem NeoBASIC nasceu do desejo de ajudar pessoas comuns a aprender a prog
 
 O código NeoBASIC é transpilado para C++, uma linguagem poderosa que combina alto desempenho, controle de baixo nível de hardware, e recursos modernos de programação orientada a objetos, genérica e funcional, permitindo a construção de sistemas complexos, eficientes e reutilizáveis. Sua capacidade de manipular diretamente a memória, aliada a uma rica biblioteca padrão e suporte a abstrações de alto nível, faz com que seja ideal tanto para aplicações de tempo real (como jogos, sistemas operacionais e motores gráficos) quanto para softwares de alta performance e sistemas embarcados.
 
-> “C facilita dar um tiro no próprio pé;
-> C++ torna mais difícil, mas quando você consegue, explode a perna inteira.”
+> C facilita dar um tiro no próprio pé;
 >
-> -- <cite>Ditado popular entre programadores</cite>
+> C++ torna mais difícil, mas quando você consegue, explode a perna inteira.
+>
+> — <cite>*Ditado popular entre programadores*</cite>
 
 Ao ser transpilada para C++, NeoBASIC mantém a performance e o ecossistema da linguagem, mas adiciona mecanismos de segurança que impedem erros comuns de gerenciamento de memória, como vazamentos, ponteiros pendentes ou acesso fora de limites. Esses recursos não apenas reduzem drasticamente o risco de falhas críticas, como também permitem que o desenvolvedor se concentre na lógica da aplicação, aproveitando as vantagens da linguagem C++ sem sofrer com suas armadilhas mais perigosas. Além disso, NeoBASIC oferece abstrações modernas e verificações em tempo de compilação que tornam o código mais seguro, legível e confiável.
 
-> “NeoBASIC é o mecanismo de segurança que previne o uso acidental e letal de C++.”
+> NeoBASIC é o mecanismo de segurança que previne o uso acidental e letal de C++.
 >
-> -- <cite>Equipe NeoBASIC</cite>
+> — <cite>*Equipe NeoBASIC*</cite>
 
 ## 💖&nbsp; Código Aberto, Livre Contribuição, Mente Aberta, De Coração Aberto
 
