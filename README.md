@@ -1,7 +1,6 @@
-# .github
+# :octocat: .github
 
-Default organization files for the United Sapiens initiative on GitHub.
-
+Default community health/policy files for the @neobasic organization on GitHub.
 
 ## How To Include New Translation
 
