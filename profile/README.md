@@ -4,17 +4,17 @@
 
 ## 🤗&nbsp; Welcome to The NeoBASIC Project
 
-Hi, my name is [Raul Bras](https://github.com/teknolista). I'm a software engineer from 🇧🇷 Brazil and the creator of 🔰 **NeoBASIC** — a next generation, multipurpose programming language that transpiles to **C++**. NeoBASIC is designed to help beginners learn programming more easily, while also providing the tools to build reliable, efficient, and high-performance software.
+Hi, my name is [Raul Bras](https://github.com/teknolista). I'm a software engineer from 🇧🇷 Brazil and the creator of 🔰 **Neob** — a next generation, multipurpose programming language that transpiles to **JavaScript**. NeoBASIC is designed to help beginners learn programming more easily, while also providing the tools to build reliable, efficient, and high-performance software.
 
 The first draft of the language grammar is ready ([neobasic-grammar](https://github.com/neobasic/neobasic-grammar)), and now I'm starting to program the parser ([pneo](https://github.com/neobasic/pneo)), using [Antlr4](https://www.antlr.org/). I'm also preparing the website ([www.neobasic.org](https://www.neobasic.org/en/)), writing the documentation ([en.neobasic.org](https://en.neobasic.org/)), and translating everything from Portuguese ([pt.neobasic.org](https://pt.neobasic.org/)). In addition, I plan to release a VS Code extension, but for now I'm still creating syntax highlighting using TextMate's grammar ([vscode-neobasic](https://github.com/neobasic/vscode-neobasic)). It's not an easy task, and I expect it to be a years-long project.
 
 ## 🔰&nbsp; Born of Desire, Shaped by Practicality
 
-The NeoBASIC language was born from a desire to help ordinary people to learn how to code.
+The Neob language was born from a desire to help ordinary people to learn how to code.
 
 ## ✊&nbsp; The Power Of C++ To The People
 
-NeoBASIC code is transpiled into C++, a powerful language that combines high performance, low-level hardware control, and modern object-oriented, generic, and functional programming features, enabling the construction of complex, efficient, and reusable systems. Its ability to directly manipulate memory, combined with a rich standard library and support for high-level abstractions, makes it ideal for both real-time applications (such as games, operating systems, and graphics engines) and high-performance software and embedded systems.
+Neob code is transpiled into C++, a powerful language that combines high performance, low-level hardware control, and modern object-oriented, generic, and functional programming features, enabling the construction of complex, efficient, and reusable systems. Its ability to directly manipulate memory, combined with a rich standard library and support for high-level abstractions, makes it ideal for both real-time applications (such as games, operating systems, and graphics engines) and high-performance software and embedded systems.
 
 > C makes it easy to shoot yourself in the foot;
 > 
@@ -22,15 +22,15 @@ NeoBASIC code is transpiled into C++, a powerful language that combines high per
 >
 > — <cite>*A popular saying among programmers*</cite>
 
-By being transpiled to C++, NeoBASIC retains the performance and ecosystem of the language while adding safety mechanisms that prevent common memory management errors, such as leaks, dangling pointers, or out-of-bounds access. These features not only drastically reduce the risk of critical failures but also allow developers to focus on application logic, taking advantage of the original language’s strengths without falling into its most dangerous pitfalls. Additionally, NeoBASIC provides modern abstractions and compile-time checks that make code safer, more readable, and more reliable.
+By being transpiled to C++, Neob retains the performance and ecosystem of the language while adding safety mechanisms that prevent common memory management errors, such as leaks, dangling pointers, or out-of-bounds access. These features not only drastically reduce the risk of critical failures but also allow developers to focus on application logic, taking advantage of the original language’s strengths without falling into its most dangerous pitfalls. Additionally, Neob provides modern abstractions and compile-time checks that make code safer, more readable, and more reliable.
 
-> NeoBASIC is the safety mechanism that prevents accidental lethal use of C++.
+> Neob is the safety mechanism that prevents accidental lethal use of C++.
 >
 > — <cite>*NeoBASIC Team*</cite>
 
 ## 💖&nbsp; Open Source, Open Contribution, Open Mind, Open Heart
 
-NeoBASIC was born as a programming language offered to the world as a gift to humanity, a creative gesture that isn't tied to owners or corporations, but expresses itself as a free path for anyone who wishes to embark on the journey of computer programming. This means you can freely learn, practice, and create software with this language, exploring its possibilities and expanding its ecosystem. By using it, you become part of a community that shares knowledge and contributes to the growth and benefit of this language.
+Neob was born as a programming language offered to the world as a gift to humanity, a creative gesture that isn't tied to owners or corporations, but expresses itself as a free path for anyone who wishes to embark on the journey of computer programming. This means you can freely learn, practice, and create software with this language, exploring its possibilities and expanding its ecosystem. By using it, you become part of a community that shares knowledge and contributes to the growth and benefit of this language.
 
 ## 👨‍🍳&nbsp; Anyone Can Code (and Cook)
 
@@ -38,11 +38,11 @@ The phrase of the banner above is a paraphrase of Gusteau's quote "Anyone can co
 
 Forget what you've heard or read about artificial intelligence replacing programmers and other professions. It's just nonsense from CEOs trying to inflate their products and desperate to attract investors. There aren't enough programmers in the world today to meet the huge demand that software is creating in society. If you want to become a programmer, keep studying and improving. Focus on your goals, learn what you find interesting, and don't compare yourself to anyone else.
 
-## 🦁&nbsp; Zeca, The NeoBASIC Mascot
+## 🦁&nbsp; Zeca, The Neob Mascot
 
-The NeoBASIC mascot is the [chimera](https://en.wikipedia.org/wiki/Chimera_(creature)), a mythological creature that emerged in Greece during the 7th century BC. The chimera is characterized by a hybrid appearance of two or more animals (lion, goat, serpent, eagle) and the ability to breathe fire from its nostrils.
+The Neob mascot is the [chimera](https://en.wikipedia.org/wiki/Chimera_(creature)), a mythological creature that emerged in Greece during the 7th century BC. The chimera is characterized by a hybrid appearance of two or more animals (lion, goat, serpent, eagle) and the ability to breathe fire from its nostrils.
 
-The name ZECA is an acronym for "Zero Effort and Cost Abstractions." NeoBASIC is a language based on the concepts of *zero-cost abstraction*, and *zero cognitive effort*, in which the resources and abstractions provided are easy to assimilate and do not impose any performance overhead at runtime. The abstractions provided by NeoBASIC are compile-time constructs and do not add any additional cost to the final C++ code, making it as fast as if you had written the code in C++ without the abstractions.
+The name ZECA is an acronym for "Zero Effort and Cost Abstractions." Neob is a language based on the concepts of *zero-cost abstraction*, and *zero cognitive effort*, in which the resources and abstractions provided are easy to assimilate and do not impose any performance overhead at runtime. The abstractions provided by Neob are compile-time constructs and do not add any additional cost to the final JavaScript code, making it as fast as if you had written the code in JavaScript without the abstractions.
 
 <p align="center"><img src="https://raw.githubusercontent.com/neobasic/.github/main/assets/chimera_icons.png" alt="Chimera icons adopted in the project."></p>
 

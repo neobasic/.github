@@ -1,0 +1,46 @@
+
+## ✊  O Poder de JavaScript Para o Povo
+
+O código Neob é transpilado para **JavaScript**, a linguagem mais onipresente da computação moderna. Presente em navegadores, servidores, dispositivos móveis, desktop apps e até em sistemas embarcados, JavaScript oferece um alcance incomparável: **escreva uma vez, execute em qualquer lugar**. Seu ecossistema massivo, com milhões de bibliotecas, ferramentas e runtimes maduros, permite que aplicações completas — do frontend ao backend — sejam construídas, distribuídas e executadas com extrema facilidade.
+
+JavaScript combina um modelo de execução de alto nível, coleta automática de lixo, tipagem dinâmica (ou estática opcional via TypeScript) e um runtime seguro, eliminando classes inteiras de erros comuns em linguagens de baixo nível. Ao mesmo tempo, motores modernos como **V8, SpiderMonkey e JavaScriptCore** aplicam otimizações agressivas, JIT compilation e técnicas avançadas de runtime que tornam o desempenho mais do que suficiente para a maioria das aplicações reais, inclusive em larga escala.
+
+> JavaScript é a linguagem que começou como um script de navegador
+> e acabou rodando o mundo inteiro.
+>
+> — <cite>*Realidade inconveniente da computação moderna*</cite>
+
+Ao ser transpilada para JavaScript, a Neob herda **portabilidade imediata, segurança por padrão e um ecossistema gigantesco**, ao mesmo tempo em que corrige as fragilidades históricas da linguagem, como inconsistências semânticas, armadilhas de coerção de tipos e APIs mal projetadas. A Neob atua como uma **camada de engenharia de software disciplinada**, impondo regras claras, verificações em tempo de compilação e abstrações consistentes que tornam o código previsível, legível e fácil de manter.
+
+Essa abordagem permite que iniciantes aprendam programação e engenharia de software sem lidar com comportamentos implícitos perigosos, enquanto desenvolvedores experientes ganham produtividade sem abrir mão de robustez. O resultado é uma linguagem moderna, pedagógica e segura, que entrega aplicações reais sobre uma das plataformas mais consolidadas do planeta.
+
+> Neob não substitui JavaScript.
+> Ela **conserta** JavaScript.
+>
+> — <cite>*Equipe NeoBASIC*</cite>
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+## ✊  The Power of JavaScript for the People
+
+Neob code is transpiled to **JavaScript**, the most ubiquitous programming language of the modern computing era. Present in browsers, servers, mobile devices, desktop applications, and even embedded systems, JavaScript offers unparalleled reach: **write once, run anywhere**. Its massive ecosystem — with millions of libraries, tools, and mature runtimes — enables complete applications to be built, distributed, and executed with remarkable ease, from frontend to backend.
+
+JavaScript combines a high-level execution model, automatic garbage collection, dynamic typing (with optional static typing via TypeScript), and a secure runtime, eliminating entire classes of errors common in low-level languages. At the same time, modern engines such as **V8, SpiderMonkey, and JavaScriptCore** apply aggressive optimizations, JIT compilation, and advanced runtime techniques, delivering performance that is more than sufficient for the vast majority of real-world applications, even at large scale.
+
+> JavaScript is the language that started as a browser script
+> and ended up running the entire world.
+>
+> — <cite>*An inconvenient truth of modern computing*</cite>
+
+By transpiling to JavaScript, Neob inherits **instant portability, safety by default, and a gigantic ecosystem**, while simultaneously fixing JavaScript’s historical weaknesses — such as semantic inconsistencies, dangerous implicit coercions, and poorly designed APIs. Neob acts as a **disciplined software engineering layer**, enforcing clear rules, compile-time checks, and consistent abstractions that make code predictable, readable, and easy to maintain.
+
+This approach allows beginners to learn programming and software engineering without fighting subtle language pitfalls, while experienced developers gain productivity without sacrificing robustness. The result is a modern, pedagogical, and safe language that delivers real-world applications on top of one of the most battle-tested platforms on the planet.
+
+> Neob doesn’t replace JavaScript.
+> It **fixes** JavaScript.
+>
+> — <cite>*NeoBASIC Team*</cite>
+
+---
